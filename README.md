@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm João Vitor, Electronic Engineer graduating at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [Leega](https://www.leega.com.br/), developing Cloud solutions in GCP. I'm currenly studying Azure and AWS cloud solutions to become a MultiCloud Engineer.
+I'm João Vitor, Electronic Engineer graduating at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in complice institucional. I'm currenly studying Azure and AWS cloud solutions to become a MultiCloud Engineer.
 
 ### :trophy: Certifications and Main Badges
 <p align="center">

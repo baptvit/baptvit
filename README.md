@@ -48,7 +48,6 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 ### :dart: What's next ? 
 
 - Microsoft Certified: Azure Data Engineer Associate
-- AWS Certified Solutions Architect - Associate
 
 
 ### :computer: I'm really good at:

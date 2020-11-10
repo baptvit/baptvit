@@ -23,7 +23,9 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 <a href="https://www.credential.net/6d4384ee-b249-40a2-adea-20ca4a61fd62?key=fb909eabe7c90fa187a3fb0a363eef3e4b82b064225a091d0e8feca083984c7e#gs.a6h2v1"><img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/5dba3428-4b50-4ef6-aa91-f95dca69d0f5"><img align='center' src='https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/2814b783-65d0-4424-a689-27b2b1c1c684"><img align='center' src='https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/e88b1b53-9db2-41eb-a6ce-b8ab7d4c283c"><img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>	
+<a href="https://www.youracclaim.com/badges/0b3b9a2a-e752-4003-b579-67d8d3272e93"><img align='center' src='https://images.youracclaim.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
+<a href="https://www.youracclaim.com/badges/e88b1b53-9db2-41eb-a6ce-b8ab7d4c283c"><img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>
+<a href="https://www.youracclaim.com/badges/3584f4e0-9a8b-4b4e-b9bf-800378bb0965"><img align='center' src='https://images.youracclaim.com/size/680x680/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
 <a href="https://github.com/helpthx/alibaba-cloud-certifications/blob/master/ACA%20Cloud%20Computing%20Certification.png"><img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e"><img align='center' src='https://images.youracclaim.com/size/680x680/images/a0c90a95-7b12-4b51-a8a5-59887be2c399/08_Associate_OCI_Architect_2019.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/d23b227e-8ae3-4d67-b8c7-93db85f6ce04"><img align='center' src='https://images.youracclaim.com/size/680x680/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='80"'></a>
@@ -48,7 +50,7 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 
 ### :dart: What's next ? 
 
-- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate :heavy_check_mark:
 
 
 ### :computer: I'm really good at:

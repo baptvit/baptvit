@@ -83,7 +83,7 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 - Microsoft Certified: Azure IA Engineer Associate
 - Microsoft Certified: Azure DevOps Engineer Expert
 - Microsoft Certified: Azure Solutions Architect Expert
-- 
+
 ### :computer: I'm really good at:
 - Development and deployment **Git/Actions, Docker, k8s and Jenkins**
 - Programming Language **Python, Scala, Java, C/C++ and SQL**

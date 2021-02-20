@@ -19,19 +19,42 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 
 ### :trophy: Certifications and Main Badges
 <p align="center">
+<!-- FKK FUN -->
+<img align='center' src='https://miro.medium.com/max/400/0*53zG2vyo0yJuEpFr' width='80"'>
+<a href="https://www.credential.net/dc73874c-ecb8-4829-bbfe-8ff44d524676#gs.thdxnh">
+<!-- GCP ACE -->
 <img align='center' src='https://miro.medium.com/max/800/1*T59fnCvp71WqNeuytWGorA.png' width='80"'>
-<a href="https://www.credential.net/6d4384ee-b249-40a2-adea-20ca4a61fd62?key=fb909eabe7c90fa187a3fb0a363eef3e4b82b064225a091d0e8feca083984c7e#gs.a6h2v1"><img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/5dba3428-4b50-4ef6-aa91-f95dca69d0f5"><img align='center' src='https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/2814b783-65d0-4424-a689-27b2b1c1c684"><img align='center' src='https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/0b3b9a2a-e752-4003-b579-67d8d3272e93"><img align='center' src='https://images.youracclaim.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
-<a href="https://www.youracclaim.com/badges/e88b1b53-9db2-41eb-a6ce-b8ab7d4c283c"><img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/3584f4e0-9a8b-4b4e-b9bf-800378bb0965"><img align='center' src='https://images.youracclaim.com/size/680x680/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
-<a href="https://github.com/helpthx/alibaba-cloud-certifications/blob/master/ACA%20Cloud%20Computing%20Certification.png"><img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e"><img align='center' src='https://images.youracclaim.com/size/680x680/images/a0c90a95-7b12-4b51-a8a5-59887be2c399/08_Associate_OCI_Architect_2019.png' width='80"'></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/d23b227e-8ae3-4d67-b8c7-93db85f6ce04"><img align='center' src='https://images.youracclaim.com/size/680x680/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='80"'></a>
+<a href="https://www.credential.net/747ba600-6f71-4a88-8316-3527679a1691">
+<!-- GCP PDE -->
+<img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
+<a href="https://www.youracclaim.com/badges/5dba3428-4b50-4ef6-aa91-f95dca69d0f5">
+<!-- AZU 900 -->
+<img align='center' src='https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg' width='80"'></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/63104e7a-59d6-45fe-94fa-ce58ab2dce8b">
+<!-- AZU 104 -->	
+<img align='center' src='https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/8240a0f7-bc12-4ecb-b94a-08c5501547c1">
+<!-- AZU DATA ENG -->	
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
+<a href="https://www.youracclaim.com/earner/earned/badge/9b945d04-b068-451b-9549-df14c140482e">
+<!-- AZU 200 -->	
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/93d79f23-8b0b-4f68-8bf2-e99c8f74e2ce">
+<!-- AZU 201 -->	
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
+<a href="https://www.youracclaim.com/earner/earned/badge/c0e29992-fea4-4abe-b216-5804bdae50b7">
+<!-- ALI ACA -->	
+<img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
+<a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e">
+<!-- OCI ARQ -->
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/a0c90a95-7b12-4b51-a8a5-59887be2c399/08_Associate_OCI_Architect_2019.png' width='80"'></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/d23b227e-8ae3-4d67-b8c7-93db85f6ce04">
+<!-- OCI ACA -->
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='80"'></a>
 </p>
 <br>
 <p align="center">
+<!-- Remaning bagdes -->
 <a href="https://www.youracclaim.com/badges/f8b82443-3d07-4885-9d43-9a611ab1575c"><img align='center' src='https://images.youracclaim.com/size/110x110/images/640641c6-0917-430b-b319-88d5e0eeb8eb/Cloud_Native_Sec_Conf_-_Data_Security.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/34aaf519-f4c9-4730-9397-e91eb478d09f"><img align='center' src='https://images.youracclaim.com/size/110x110/images/01d39c6e-56b8-41d2-b994-fb9d4587240f/Cloud_Native_Sec_Conf_-_DevSecOps_Security.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/805208f1-20e4-4910-9884-a6436d9f2ac2"><img align='center' src='https://images.youracclaim.com/size/110x110/images/d0d5241d-ffd7-432d-963d-fc5a0dcdc51a/Cloud_Native_Sec_Conf_-_App_Security.png' width='80"'></a>
@@ -41,7 +64,7 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 <a href="https://www.youracclaim.com/earner/earned/badge/221d7c72-4354-4988-bb11-c3b10f98708b"><img align='center' src='https://images.youracclaim.com/size/340x340/images/5e783b30-fa40-40ba-b457-be9bacdb116c/Hybrid_Cloud_Conf_-_Service_Mesh_Networker.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/6d0a509d-68ea-488b-b50d-6cb500289b0f"><img align='center' src='https://images.youracclaim.com/size/340x340/images/12c8f55d-bcf7-4465-a176-411d42b006a4/Hybrid_Cloud_Conf_-_App_Sec_and_Threat_Modler.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/ce1ad7ff-e90c-4c4d-9947-f1451f16b6a6"><img align='center' src='https://images.youracclaim.com/size/340x340/images/9e7cb55c-f086-44f1-aad9-9f64b09a5f43/Hybrid_Cloud_Conf_-_App_Developer.png' width='80"'></a>
-
+<!-- Open source Big data -->
 <a href="https://www.youracclaim.com/badges/9c610b61-bd47-4966-a696-b894a729c302"><img align='center' src='https://images.youracclaim.com/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data%2BScience%2Bwith%2BScala%2B-%2BPwr%2Bby%2BLightbend.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/940a59a9-2db4-46f2-ae12-97272c4eedf6"><img align='center' src='https://images.youracclaim.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker%2BEssentials%2B-%2BISDN.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/8d12a31c-aeb1-45de-8e56-19b9450f299c"><img align='center' src='https://images.youracclaim.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big%2BData%2BFound%2BLevel%2B2%2B-%2BCC%2Bv2.png' width='80"'></a>
@@ -57,9 +80,10 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 
 ### :dart: What's next ? 
 
-- Microsoft Certified: Azure Data Engineer Associate :heavy_check_mark:
-
-
+- Microsoft Certified: Azure IA Engineer Associate
+- Microsoft Certified: Azure DevOps Engineer Expert
+- Microsoft Certified: Azure Solutions Architect Expert
+- 
 ### :computer: I'm really good at:
 - Development and deployment **Git/Actions, Docker, k8s and Jenkins**
 - Programming Language **Python, Scala, Java, C/C++ and SQL**

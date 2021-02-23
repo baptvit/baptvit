@@ -34,6 +34,9 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 <!-- AZU 104 -->	
 <img align='center' src='https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/8240a0f7-bc12-4ecb-b94a-08c5501547c1">
+<!-- AZU 100 -->	
+<img align='center' src='https://images.youracclaim.com/size/680x680/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
+<a href="https://www.youracclaim.com/earner/earned/badge/4b0974aa-b167-4faa-acc0-a3348d877dd5">
 <!-- AZU DATA ENG -->	
 <img align='center' src='https://images.youracclaim.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
 <a href="https://www.youracclaim.com/earner/earned/badge/9b945d04-b068-451b-9549-df14c140482e">
@@ -41,7 +44,7 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 <img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/93d79f23-8b0b-4f68-8bf2-e99c8f74e2ce">
 <!-- AZU 201 -->	
-<img align='center' src='https://images.youracclaim.com/size/680x680/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
+<img align='center' src='https://images.youracclaim.com/size/340x340/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png' width='80"'></a>	
 <a href="https://www.youracclaim.com/earner/earned/badge/c0e29992-fea4-4abe-b216-5804bdae50b7">
 <!-- ALI ACA -->	
 <img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm João Vitor, Electronic Engineer graduating at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in compliance institucional. I'm currenly studying Azure and AWS cloud solutions to become a MultiCloud Engineer.
+I'm João Vitor, Electronic Engineer graduated at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in compliance institucional. I'm currenly studying Azure and AWS cloud solutions to become a MultiCloud Engineer.
 
 ### :trophy: Certifications and Main Badges
 <p align="center">
@@ -29,23 +29,20 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 <img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/5dba3428-4b50-4ef6-aa91-f95dca69d0f5">
 <!-- AZU 900 -->
-<img align='center' src='https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg' width='80"'></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/63104e7a-59d6-45fe-94fa-ce58ab2dce8b">
+<img align='center' src='https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png' width='80"'></a>
+<a href="https://www.credly.com/badges/63104e7a-59d6-45fe-94fa-ce58ab2dce8b">
 <!-- AZU 104 -->	
-<img align='center' src='https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/8240a0f7-bc12-4ecb-b94a-08c5501547c1">
+<img align='center' src='https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
+<a href="https://www.credly.com/badges/8240a0f7-bc12-4ecb-b94a-08c5501547c1">
 <!-- AZU 100 -->	
 <img align='center' src='https://images.youracclaim.com/size/340x340/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png' width='80"'></a>	
 <a href="https://www.youracclaim.com/earner/earned/badge/4b0974aa-b167-4faa-acc0-a3348d877dd5">
 <!-- AZU DATA ENG -->	
-<img align='center' src='https://images.youracclaim.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
-<a href="https://www.youracclaim.com/earner/earned/badge/9b945d04-b068-451b-9549-df14c140482e">
-<!-- AZU 200 -->	
-<img align='center' src='https://images.youracclaim.com/size/680x680/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png' width='80"'></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/93d79f23-8b0b-4f68-8bf2-e99c8f74e2ce">
-<!-- AZU 201 -->	
-<img align='center' src='https://images.youracclaim.com/size/340x340/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png' width='80"'></a>	
-<a href="https://www.youracclaim.com/earner/earned/badge/c0e29992-fea4-4abe-b216-5804bdae50b7">
+<img align='center' src='https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
+<a href="https://www.credly.com/badges/9b945d04-b068-451b-9549-df14c140482e">
+<!-- AZU 400 -->	
+<img align='center' src='https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png' width='80"'></a>	
+<a href="https://www.credly.com/badges/2a72f932-e43f-4f96-985f-19fdd67b2882">
 <!-- ALI ACA -->	
 <img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e">
@@ -83,15 +80,15 @@ I'm João Vitor, Electronic Engineer graduating at University of Brasilia who lo
 
 ### :dart: What's next ? 
 
-- Microsoft Certified: Azure IA Engineer Associate
-- Microsoft Certified: Azure DevOps Engineer Expert
+- Microsoft Certified: Azure IA Engineer Associate :heavy_check_mark:
+- Microsoft Certified: Azure DevOps Engineer Expert :heavy_check_mark:
 - Microsoft Certified: Azure Solutions Architect Expert
 
 ### :computer: I'm really good at:
-- Development and deployment **Git/Actions, Docker, k8s and Jenkins**
-- Programming Language **Python, Scala, Java, C/C++ and SQL**
-- Cloud Architecting solutions **Azure, AWS, GCP, Alibaba Cloud, OCI and IBM Cloud**
-- Frameworks **Django, Flask, TensorFlow, PyTorch and Spark**
+- Deployment **CI-CD Pipelines and DevOPS Culture**
+- Programming Language **Python, Scala, Java, C/C++, C# and SQL**
+- Cloud providers **Azure, AWS, GCP, Alibaba Cloud, OCI and IBM Cloud**
+- Frameworks **Django, Flask, FastAPI TensorFlow, PyTorch, .NET Core and Spark**
 - Data Engineering **No-SQL, Apache Ecosystem, MongoDB, MySQL and PostgreSQL**
 
 ### 📫 How to reach me: 

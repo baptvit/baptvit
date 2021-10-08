@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm João Vitor, Electronic Engineer graduated at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in Credit Bussiness Unit. I'm currenly studying Azure and AWS cloud solutions to become a MultiCloud Engineer.
+I'm João Vitor, Electronic Engineer graduated at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in Credit Bussiness Unit. I'm currenly studying scala, go and rust languagues and also some apache big data frameworks spark, flink and beam. 
 
 ### :trophy: Certifications and Main Badges
 <p align="center">
@@ -78,11 +78,6 @@ I'm João Vitor, Electronic Engineer graduated at University of Brasilia who lov
 <a href="https://www.youracclaim.com/earner/earned/badge/c309d5fe-ef6c-4f0f-828d-aca5279af741"><img align='center' src='https://images.youracclaim.com/size/340x340/images/15e0b822-1ee8-461b-820b-0f015c9f0cd4/Scala_Pgrm_for_Data_Sci_Level_2_-_CC_-_2019.png' width='80"'></a>
 </p>
 
-### :dart: What's next ? 
-
-- Microsoft Certified: Azure IA Engineer Associate :heavy_check_mark:
-- Microsoft Certified: Azure DevOps Engineer Expert :heavy_check_mark:
-- Microsoft Certified: Azure Solutions Architect Expert
 
 ### :computer: I'm really good at:
 - Deployment **CI-CD Pipelines and DevOPS Culture**

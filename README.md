@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm João Vitor, Electronic Engineer graduated at University of Brasilia who loves Cloud computing and Data engineering. Currently working remoting as a Data Engineer at [XP inc](https://www.linkedin.com/company/xp-inc/), in Credit Bussiness Unit. I'm currenly studying scala, go and rust languagues and also some apache big data frameworks spark, flink and beam. 
+Experienced Data Engineer and former Python Back-End Developer with a passion for continuous learning and growth. With over 5 years of hands-on experience, I have developed a strong foundation in Back-End development using Python, specializing in frameworks such as Django, Flask, and FastAPI. My expertise extends to containerization and orchestration using Docker and Kubernetes, ensuring efficient and scalable deployment. As an Azure DevOps Engineer Expert and Professional DevOps certified in GCP, I possess the skills to optimize software development processes, enabling teams to deliver high-quality products with speed and reliability. 
+
+Additionally, my proficiency in the Apache ecosystem equips me with advanced knowledge in Big Data, while holding the Professional Data Engineer certification in Google Cloud Platform and Associate Data Engineer certification in Azure.
+With comprehensive knowledge of Cloud Computing, I have worked extensively with GCP, AWS and Azure. My dedication to staying at the forefront of industry trends and technologies is reflected in my 10x Cloud certifications across four different platforms, showcasing my commitment to delivering innovative and effective solutions to complex problems.
+Furthermore, I possess advanced proficiency in Artificial Intelligence, particularly with TensorFlow and PyTorch, specializing in image processing. As an Associate AI certified professional in Azure, I am equipped to develop intelligent systems that harness the power of AI to drive impactful results.
+
 
 ### :trophy: Certifications and Main Badges
 <p align="center">
@@ -27,15 +32,21 @@ I'm João Vitor, Electronic Engineer graduated at University of Brasilia who lov
 <a href="https://www.credential.net/747ba600-6f71-4a88-8316-3527679a1691">
 <!-- GCP PDE -->
 <img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
-<a href="https://www.youracclaim.com/badges/5dba3428-4b50-4ef6-aa91-f95dca69d0f5">
+<a href="https://www.credential.net/0349897e-8d38-4131-91d5-537a91fe4e22">
+<!-- GCP PCA -->
+<img align='center' src='https://miro.medium.com/v2/resize:fit:300/0*puFT00gVK-7ik0Bt.png' width='80"'></a>
+<a href="https://www.credential.net/fdcd8520-89ff-4980-9eaa-0f34d523a4ca">
+<!-- GCP PCDO -->
+<img align='center' src='https://miro.medium.com/v2/resize:fit:520/1*HEvYt-yL78Oxg3fpP6EpqA.png' width='80"'></a>
+<a href="https://www.credential.net/5bef4496-e62a-44b6-a894-a14e7d2dbd53#gs.ovxmk3">
 <!-- AZU 900 -->
-<img align='center' src='https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png' width='80"'></a>
+<img align='center' src='https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png' width='80"'></a>
 <a href="https://www.credly.com/badges/63104e7a-59d6-45fe-94fa-ce58ab2dce8b">
 <!-- AZU 104 -->	
 <img align='center' src='https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png' width='80"'></a>
 <a href="https://www.credly.com/badges/8240a0f7-bc12-4ecb-b94a-08c5501547c1">
 <!-- AZU 100 -->	
-<img align='center' src='https://images.youracclaim.com/size/340x340/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png' width='80"'></a>	
+<img align='center' src='https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png' width='80"'></a>	
 <a href="https://www.youracclaim.com/earner/earned/badge/4b0974aa-b167-4faa-acc0-a3348d877dd5">
 <!-- AZU DATA ENG -->	
 <img align='center' src='https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png' width='80"'></a>	
@@ -51,10 +62,19 @@ I'm João Vitor, Electronic Engineer graduated at University of Brasilia who lov
 <a href="https://www.youracclaim.com/earner/earned/badge/d23b227e-8ae3-4d67-b8c7-93db85f6ce04">
 <!-- OCI ACA -->
 <img align='center' src='https://images.youracclaim.com/size/680x680/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='80"'></a>
+<!-- SCALA -->
+<img align='center' src='https://images.credly.com/size/340x340/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png' width='80"'></a>
+<a href="https://www.credly.com/badges/9c610b61-bd47-4966-a696-b894a729c302">
+<!-- AWS P -->
+<img align='center' src='https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width='80"'></a>
+<a href="https://www.credly.com/badges/b32c18ae-5e59-49e9-b56a-58f00b3d09da">
+<!-- AIRFLOW -->
+<img align='center' src='https://www.astronomer.io/archive/4fecD6QTOzMLknuy1rclzk/cab359d051ac2436625560c4927ce804/astronomer_rebranded_certbadge1.png?w=388&h=343&fm=webp' width='80"'></a>
+<a href="https://www.credly.com/badges/71787b4c-e0b3-4f91-abc0-b466bc6e0bc9">
 </p>
 <br>
-<p align="center">
-<!-- Remaning bagdes -->
+<!-- <p align="center">
+Remaning bagdes 
 <a href="https://www.youracclaim.com/badges/f8b82443-3d07-4885-9d43-9a611ab1575c"><img align='center' src='https://images.youracclaim.com/size/110x110/images/640641c6-0917-430b-b319-88d5e0eeb8eb/Cloud_Native_Sec_Conf_-_Data_Security.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/34aaf519-f4c9-4730-9397-e91eb478d09f"><img align='center' src='https://images.youracclaim.com/size/110x110/images/01d39c6e-56b8-41d2-b994-fb9d4587240f/Cloud_Native_Sec_Conf_-_DevSecOps_Security.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/805208f1-20e4-4910-9884-a6436d9f2ac2"><img align='center' src='https://images.youracclaim.com/size/110x110/images/d0d5241d-ffd7-432d-963d-fc5a0dcdc51a/Cloud_Native_Sec_Conf_-_App_Security.png' width='80"'></a>
@@ -64,7 +84,7 @@ I'm João Vitor, Electronic Engineer graduated at University of Brasilia who lov
 <a href="https://www.youracclaim.com/earner/earned/badge/221d7c72-4354-4988-bb11-c3b10f98708b"><img align='center' src='https://images.youracclaim.com/size/340x340/images/5e783b30-fa40-40ba-b457-be9bacdb116c/Hybrid_Cloud_Conf_-_Service_Mesh_Networker.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/6d0a509d-68ea-488b-b50d-6cb500289b0f"><img align='center' src='https://images.youracclaim.com/size/340x340/images/12c8f55d-bcf7-4465-a176-411d42b006a4/Hybrid_Cloud_Conf_-_App_Sec_and_Threat_Modler.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/ce1ad7ff-e90c-4c4d-9947-f1451f16b6a6"><img align='center' src='https://images.youracclaim.com/size/340x340/images/9e7cb55c-f086-44f1-aad9-9f64b09a5f43/Hybrid_Cloud_Conf_-_App_Developer.png' width='80"'></a>
-<!-- Open source Big data -->
+Open source Big data 
 <a href="https://www.youracclaim.com/badges/9c610b61-bd47-4966-a696-b894a729c302"><img align='center' src='https://images.youracclaim.com/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data%2BScience%2Bwith%2BScala%2B-%2BPwr%2Bby%2BLightbend.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/940a59a9-2db4-46f2-ae12-97272c4eedf6"><img align='center' src='https://images.youracclaim.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker%2BEssentials%2B-%2BISDN.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/8d12a31c-aeb1-45de-8e56-19b9450f299c"><img align='center' src='https://images.youracclaim.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big%2BData%2BFound%2BLevel%2B2%2B-%2BCC%2Bv2.png' width='80"'></a>
@@ -77,14 +97,19 @@ I'm João Vitor, Electronic Engineer graduated at University of Brasilia who lov
 <a href="https://www.youracclaim.com/badges/b3ad5d8c-706b-4415-b23a-8ba700fdabd0"><img align='center' src='https://images.youracclaim.com/size/110x110/images/051ed1ba-7b7e-43e8-9d65-4287e61fc9aa/Hadoop%2BProgramming%2BLevel%2B2%2B-%2BCC%2B-%2B2019.png' width='80"'></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/c309d5fe-ef6c-4f0f-828d-aca5279af741"><img align='center' src='https://images.youracclaim.com/size/340x340/images/15e0b822-1ee8-461b-820b-0f015c9f0cd4/Scala_Pgrm_for_Data_Sci_Level_2_-_CC_-_2019.png' width='80"'></a>
 </p>
+-->
 
 
-### :computer: I'm really good at:
-- Deployment **CI-CD Pipelines and DevOPS Culture**
-- Programming Language **Python, Scala, Java, C/C++, C# and SQL**
-- Cloud providers **Azure, AWS, GCP, Alibaba Cloud, OCI and IBM Cloud**
-- Frameworks **Django, Flask, FastAPI TensorFlow, PyTorch, .NET Core and Spark**
-- Data Engineering **No-SQL, Apache Ecosystem, MongoDB, MySQL and PostgreSQL**
+### :computer: Qualificationst:
+ - Master's Degree - Specializing in Advanced Computation and Data Science
+ - 5+ years of experience in data engineering.
+ - BEngg - Bachelor of Engineering.
+ - Experience with AWS, Azure, CGP, Apache Spark, and other big data technologies.
+ - Experience with dimensional modeling and data warehousing.
+ - Experience with unit testing, clean code, and standards templates.
+ - Experience with data quality and observability.
+ - Excellent communication and presentation skills.
+
 
 ### 📫 How to reach me: 
 <p align="center">

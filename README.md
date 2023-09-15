@@ -24,9 +24,6 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 
 ### :trophy: Certifications and Main Badges
 <p align="center">
-<!-- FKK FUN -->
-<img align='center' src='https://miro.medium.com/max/400/0*53zG2vyo0yJuEpFr' width='80"'>
-<a href="https://www.credential.net/dc73874c-ecb8-4829-bbfe-8ff44d524676#gs.thdxnh">
 <!-- GCP ACE -->
 <img align='center' src='https://miro.medium.com/max/800/1*T59fnCvp71WqNeuytWGorA.png' width='80"'>
 <a href="https://www.credential.net/747ba600-6f71-4a88-8316-3527679a1691">
@@ -54,6 +51,9 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 <!-- AZU 400 -->	
 <img align='center' src='https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png' width='80"'></a>	
 <a href="https://www.credly.com/badges/2a72f932-e43f-4f96-985f-19fdd67b2882">
+<!-- AWS P -->
+<img align='center' src='https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width='80"'></a>
+<a href="https://www.credly.com/badges/b32c18ae-5e59-49e9-b56a-58f00b3d09da">
 <!-- ALI ACA -->	
 <img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e">
@@ -65,12 +65,12 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 <!-- SCALA -->
 <img align='center' src='https://images.credly.com/size/340x340/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png' width='80"'></a>
 <a href="https://www.credly.com/badges/9c610b61-bd47-4966-a696-b894a729c302">
-<!-- AWS P -->
-<img align='center' src='https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width='80"'></a>
-<a href="https://www.credly.com/badges/b32c18ae-5e59-49e9-b56a-58f00b3d09da">
 <!-- AIRFLOW -->
 <img align='center' src='https://www.astronomer.io/archive/4fecD6QTOzMLknuy1rclzk/cab359d051ac2436625560c4927ce804/astronomer_rebranded_certbadge1.png?w=388&h=343&fm=webp' width='80"'></a>
 <a href="https://www.credly.com/badges/71787b4c-e0b3-4f91-abc0-b466bc6e0bc9">
+<!-- FKK FUN -->
+<img align='center' src='https://miro.medium.com/max/400/0*53zG2vyo0yJuEpFr' width='80"'>
+<a href="https://www.credential.net/dc73874c-ecb8-4829-bbfe-8ff44d524676#gs.thdxnh">
 </p>
 <br>
 <!-- <p align="center">

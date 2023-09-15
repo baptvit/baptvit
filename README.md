@@ -101,7 +101,7 @@ Open source Big data
 
 
 ### :computer: Qualificationst:
- - Master's Degree - Specializing in Advanced Computation and Data Science
+ - MSc - Specializing in Advanced Computation and Data Science (Doing)
  - 5+ years of experience in data engineering.
  - BEngg - Bachelor of Engineering.
  - Experience with AWS, Azure, CGP, Apache Spark, and other big data technologies.

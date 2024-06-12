@@ -1,25 +1,16 @@
-## Hi Folks, I'm the mustache 👋
+## I code. I build. I solve problems... with a twist of the mustache.
 
-<!--
-**helpthx/helpthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** by day, **AI Researcher** by night.
 
-Here are some ideas to get you started:
+7+ years of wrangling data, building backends (Python: Django, Flask, FastAPI), and deploying with efficiency (Docker, Kubernetes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud Whisperer** (GCP, AWS, Azure) with a stack of certs a mile high. ☁️ (Yes, that's more then 10x Cloud certs!)
 
-Experienced Data Engineer and former Python Back-End Developer with a passion for continuous learning and growth. With over 5 years of hands-on experience, I have developed a strong foundation in Back-End development using Python, specializing in frameworks such as Django, Flask, and FastAPI. My expertise extends to containerization and orchestration using Docker and Kubernetes, ensuring efficient and scalable deployment. As an Azure DevOps Engineer Expert and Professional DevOps certified in GCP, I possess the skills to optimize software development processes, enabling teams to deliver high-quality products with speed and reliability. 
+**Big Data** is my playground (Apache ecosystem + Google Data Pro, Azure Data Engineer).
 
-Additionally, my proficiency in the Apache ecosystem equips me with advanced knowledge in Big Data, while holding the Professional Data Engineer certification in Google Cloud Platform and Associate Data Engineer certification in Azure.
-With comprehensive knowledge of Cloud Computing, I have worked extensively with GCP, AWS and Azure. My dedication to staying at the forefront of industry trends and technologies is reflected in my 10x Cloud certifications across four different platforms, showcasing my commitment to delivering innovative and effective solutions to complex problems.
-Furthermore, I possess advanced proficiency in Artificial Intelligence, particularly with TensorFlow and PyTorch, specializing in image processing. As an Associate AI certified professional in Azure, I am equipped to develop intelligent systems that harness the power of AI to drive impactful results.
+**AI** is the future, and I'm ready (NLP Master Researcher, TensorFlow, PyTorch, Azure AI Associate and GCP AI Professional).
+
+Let's build something awesome!
 
 
 ### :trophy: Certifications and Main Badges
@@ -27,12 +18,15 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 <!-- GCP ACE -->
 <img align='center' src='https://miro.medium.com/max/800/1*T59fnCvp71WqNeuytWGorA.png' width='80"'>
 <a href="https://www.credential.net/747ba600-6f71-4a88-8316-3527679a1691">
+<!-- GCP ML -->
+<img align='center' src='https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png' width='80"'>
+<a href="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png">
 <!-- GCP PDE -->
-<img align='center' src='https://miro.medium.com/max/1200/1*T0_akZfhC_BmZNc0znAtdQ.png' width='80"'></a>
-<a href="https://www.credential.net/0349897e-8d38-4131-91d5-537a91fe4e22">
+<img align='center' src='https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png' width='80"'></a>
+<a href="https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png">
 <!-- GCP PCA -->
-<img align='center' src='https://miro.medium.com/v2/resize:fit:300/0*puFT00gVK-7ik0Bt.png' width='80"'></a>
-<a href="https://www.credential.net/fdcd8520-89ff-4980-9eaa-0f34d523a4ca">
+<img align='center' src='https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png' width='80"'></a>
+<a href="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png">
 <!-- GCP PCDO -->
 <img align='center' src='https://miro.medium.com/v2/resize:fit:520/1*HEvYt-yL78Oxg3fpP6EpqA.png' width='80"'></a>
 <a href="https://www.credential.net/5bef4496-e62a-44b6-a894-a14e7d2dbd53#gs.ovxmk3">
@@ -53,7 +47,11 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 <a href="https://www.credly.com/badges/2a72f932-e43f-4f96-985f-19fdd67b2882">
 <!-- AWS P -->
 <img align='center' src='https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width='80"'></a>
-<a href="https://www.credly.com/badges/b32c18ae-5e59-49e9-b56a-58f00b3d09da">
+<!-- AWS Arcth Associate -->
+<img align='center' src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='80"'></a>
+<!-- AWS Bagde -->
+<img align='center' src='https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png' width='80"'></a>
+<a href="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png">
 <!-- ALI ACA -->	
 <img align='center' src='https://hotmart.s3.amazonaws.com/product_contents/86999429-773b-46d4-bd17-00b2086c1575/badge_associate.png' width='80"'></a>
 <a href="https://www.youracclaim.com/badges/b2728ae5-09bd-42ca-8e75-c5ea827cd63e">
@@ -69,8 +67,8 @@ Furthermore, I possess advanced proficiency in Artificial Intelligence, particul
 <img align='center' src='https://www.astronomer.io/archive/4fecD6QTOzMLknuy1rclzk/cab359d051ac2436625560c4927ce804/astronomer_rebranded_certbadge1.png?w=388&h=343&fm=webp' width='80"'></a>
 <a href="https://www.credly.com/badges/71787b4c-e0b3-4f91-abc0-b466bc6e0bc9">
 <!-- FKK FUN -->
-<img align='center' src='https://miro.medium.com/max/400/0*53zG2vyo0yJuEpFr' width='80"'>
-<a href="https://www.credential.net/dc73874c-ecb8-4829-bbfe-8ff44d524676#gs.thdxnh">
+<img align='center' src="https://miro.medium.com/max/400/0*53zG2vyo0yJuEpFr" width='80"'>
+<a href="https://www.credential.net/dc73874c-ecb8-4829-bbfe-8ff44d524676#gs.thdxnh"></a>
 </p>
 <br>
 <!-- <p align="center">
@@ -99,25 +97,24 @@ Open source Big data
 </p>
 -->
 
+### :brain: Superpowers:
 
-### :computer: Qualifications:
- - MSc - Specializing in Advanced Computation and Data Science (Doing)
- - 5+ years of experience in Data Engineering.
- - BEngg - Bachelor of Engineering.
- - Experience with AWS, Azure, CGP, Apache Spark, and other big data technologies.
- - Experience with dimensional modeling and data warehousing.
- - Experience with unit testing, clean code, and standards templates.
- - Experience with data quality and observability.
- - Excellent communication and presentation skills.
+- **MSc in Artificial Intelligence & Data Science**: Leveling up my data wrangling skills. ‍
+- **7+ Years Data Engineering:** Turning data into insights with battle-tested experience. ⚔️
+- **Cloud Master:** AWS, Azure, GCP? I speak fluent cloud. ☁️
+- **Big Data Boss:** Apache Spark and friends are my tools for taming massive datasets.
+- **Data Whisperer:** Building dimensional models and data warehouses that sing. 🪄
+- **Code Samurai:** Clean code, unit testing, and standards are my code of honor. ⚔️
+- **Data Guardian:** Ensuring data quality and observability like a hawk.
 
 
 ### 📫 How to reach me: 
 <p align="center">
-	<a href="https://github.com/helpthx"><img src="https://img.shields.io/github/followers/helpthx.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/helpyhx"><img src="https://img.shields.io/twitter/follow/helpyhx?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rodrigues-baptista-4a3546149/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://medium.com/@helpthx"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">
+	<a href="https://github.com/baptvit"><img src="https://img.shields.io/github/followers/baptvit.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/baptvit"><img src="https://img.shields.io/twitter/follow/baptvit?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/jo%C3%A3o-baptista-4a3546149/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://medium.com/@baptvit"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">
 </p>
 
-![João Vitor Rodrigues Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helpthx&show_icons=true)
+![João Vitor Rodrigues Baptista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baptvit&show_icons=true)
 
